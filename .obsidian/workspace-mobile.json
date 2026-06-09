@@ -159,6 +159,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -169,5 +170,8 @@
     }
   },
   "active": "4da5daf68b85fac6",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Sin título.base",
+    "LLM/MCP is dead, Long live the CLI.md"
+  ]
 }
