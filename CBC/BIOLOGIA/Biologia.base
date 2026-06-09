@@ -1,0 +1,35 @@
+filters:
+  and:
+    - file.inFolder("CBC/BIOLOGIA")
+    - file.ext == "md"
+formulas:
+  updated_label: if(updated, date(updated).format("YYYY-MM-DD"), file.mtime.format("YYYY-MM-DD"))
+  bloque: if(tags.contains("sesion1"), "sesion-1", if(tags.contains("sesion2"), "sesion-2", "indice"))
+properties:
+  title:
+    displayName: Titulo
+  formula.bloque:
+    displayName: Bloque
+  formula.updated_label:
+    displayName: Actualizado
+  status:
+    displayName: Estado
+views:
+  - type: table
+    name: Sesiones
+    filters:
+      and:
+        - tags.contains("sesion1") || tags.contains("sesion2")
+    order:
+      - file.name
+      - formula.bloque
+      - title
+      - formula.updated_label
+  - type: table
+    name: Todo CBC Biologia
+    order:
+      - file.name
+      - formula.bloque
+      - status
+      - formula.updated_label
+      - tags

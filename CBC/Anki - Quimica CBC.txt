@@ -1,0 +1,82 @@
+¿Cuál es la fórmula del porcentaje masa/masa (% m/m)?	% m/m = (g de soluto / g de solución) × 100
+¿Cuál es la fórmula del porcentaje masa/volumen (% m/v)?	% m/v = (g de soluto / cm³ de solución) × 100
+¿Cuál es la fórmula del porcentaje volumen/volumen (% v/v)?	% v/v = (cm³ de soluto / cm³ de solución) × 100
+¿Qué es la molaridad (M)?	M = moles de soluto / dm³ de solución
+¿Qué es la molalidad (m)?	m = moles de soluto / kg de solvente
+¿Cuál es la fórmula de la fracción molar del soluto (xST)?	xST = moles de soluto / moles totales (ST + SV)
+¿Cuál es la fórmula de la fracción molar del solvente (xSV)?	xSV = moles de solvente / moles totales
+¿Qué son las partes por millón (ppm)?	ppm = mg de soluto / litro de solución = mg de soluto / kg de solución
+¿Cuál es la fórmula de la densidad de una solución y en qué unidades se expresa?	d = masa de solución / volumen de solución. Se expresa en g/cm³, g/ml o kg/m³.
+¿Qué son las fuerzas dipolo-dipolo?	Interacción observada entre el dipolo positivo de una molécula polar y el dipolo negativo de otra molécula polar.
+¿Qué son las fuerzas de London?	Fuerzas producidas por la formación de dipolos instantáneos. Son características de moléculas no polares, aunque están presentes en todas las moléculas.
+¿Qué son los puentes de hidrógeno?	Fuerza de atracción que existe entre un átomo de hidrógeno de un enlace muy polarizado y un átomo muy electronegativo (O, N o F).
+¿Cómo se representan los puentes de hidrógeno?	Con una línea de puntos.
+¿Qué es la polaridad de una molécula?	Característica de cada enlace que se debe a la diferencia de electronegatividad entre los átomos enlazados. La polaridad de la molécula es la suma vectorial de los enlaces polares.
+¿Cuándo una molécula es no polar?	Cuando tiene estructura simétrica, sin pares libres de electrones en el átomo central y con elementos periféricos iguales.
+Menciona dos ejemplos de moléculas no polares.	CO₂ y BF₃
+¿Qué son los compuestos iónicos y menciona dos propiedades?	Sólidos a temperatura ambiente con puntos de fusión y ebullición elevados. Conductores de electricidad en estado fundido o disuelto. Solubles en disolventes polares.
+¿Qué son los compuestos moleculares y menciona dos propiedades?	Puntos de fusión y ebullición bajos. No conducen electricidad. Se disuelven en sustancias con la misma polaridad.
+¿Qué son los compuestos metálicos y menciona dos propiedades?	Sólidos a temperatura ambiente (excepto mercurio). Altos puntos de fusión y ebullición. Presentan brillo metálico. Conducen muy bien la electricidad y el calor gracias a los electrones libres.
+¿Qué efecto tienen los pares de electrones libres en la geometría molecular?	Experimentan mayor repulsión que los pares enlazantes, modifican el ángulo de enlace haciéndolo menor al predicho por TREPEV.
+¿Cuál es la geometría molecular del SO₂ (dióxido de azufre) y su ángulo aproximado?	Angular, con un ángulo de enlace menor a 120° debido al par de electrones libre.
+¿Cuál es la geometría molecular del NH₃ (amoníaco) y su geometría electrónica?	Geometría molecular piramidal. Geometría electrónica tetraédrica (1 par libre + 3 pares enlazantes).
+¿Cuál es la geometría molecular del HCN (ácido cianhídrico)?	Lineal.
+¿Cuándo la geometría electrónica (GE) es igual a la geometría molecular (GM)?	Cuando no hay pares de electrones libres rodeando al átomo central.
+¿Cuál es la geometría del ion amonio (NH₄⁺)?	Tetraédrica.
+¿Cuál es la geometría del anión ortofosfato (PO₄³⁻)?	Tetraédrica.
+¿Qué es TREPEV?	Teoría de Repulsión de los Pares Electrónicos de Valencia.
+¿Qué permite predecir TREPEV?	Las geometrías y los ángulos de enlace de las moléculas y los iones poliatómicos.
+Según TREPEV, ¿cómo se repelen los pares libres vs los pares enlazantes?	Los pares de electrones libres se repelen con mayor intensidad que los pares compartidos.
+Según TREPEV, ¿cómo se consideran los enlaces coordinados, dobles y triples?	Se consideran equivalentes a un enlace simple.
+¿Cuántos pares de electrones tiene la geometría electrónica lineal?	2 pares de electrones alrededor del átomo central.
+¿Cuántos pares de electrones tiene la geometría electrónica plana triangular?	3 pares de electrones alrededor del átomo central.
+¿Cuántos pares de electrones tiene la geometría electrónica tetraédrica?	4 pares de electrones alrededor del átomo central.
+¿Cuál es la geometría molecular del CO₂ y su ángulo de enlace?	Lineal. Ángulo de enlace de 180°.
+¿Cuál es la geometría molecular del BF₃?	Plana triangular.
+¿Cuál es la geometría molecular del CCl₄ y su ángulo de enlace?	Tetraédrica. Ángulo de enlace de 109,5°.
+Nomenclatura de ácido oxácido con número de oxidación +1.	Hipo + no metal + oso. Ejemplo: ácido hipocloroso (HClO).
+Nomenclatura de ácido oxácido con número de oxidación +3.	No metal + oso.
+Nomenclatura de ácido oxácido con número de oxidación +5.	No metal + ico.
+Nomenclatura de ácido oxácido con número de oxidación +7.	Per + no metal + ico. Ejemplo: ácido perclórico (HClO₄).
+¿Qué es el octeto incompleto?	Cuando el número de electrones que rodean al átomo central es inferior a ocho. Ejemplos: BeCl₂ (4 electrones) y BF₃ (6 electrones).
+¿Qué es el octeto expandido?	Ocurre en elementos del tercer período en adelante, donde hay más de ocho electrones alrededor del átomo central. Ejemplo: SF₄ (azufre rodeado por 10 electrones).
+Menciona moléculas con número impar de electrones.	NO y NO₂.
+¿Por qué los metales conducen electricidad?	Porque poseen electrones libres.
+¿Qué elementos son los metales alcalinos?	Grupo 1 (excepto el hidrógeno).
+¿Qué elementos son los alcalinotérreos?	Grupo 2.
+¿Qué elementos son los halógenos?	Grupo 17.
+¿Qué elementos son los gases nobles?	Grupo 18.
+Definición de radio atómico.	Mitad de la distancia entre dos núcleos de dos átomos.
+¿Cuál es la tendencia del radio atómico en un grupo?	Aumenta hacia abajo.
+¿Cuál es la tendencia del radio atómico en un período?	Disminuye hacia la derecha (aumenta hacia la izquierda).
+Definición de energía de ionización.	Energía necesaria para arrancar un electrón de un átomo.
+¿Cuál es la tendencia de la energía de ionización en la tabla periódica?	Aumenta hacia arriba y hacia la derecha.
+Configuración electrónica de los metales alcalinos.	ns¹
+Configuración electrónica de los alcalinotérreos.	ns²
+Configuración electrónica de la familia del Carbono (grupo 14).	ns² np²
+Configuración electrónica de la familia del Nitrógeno (grupo 15).	ns² np³
+Configuración electrónica de los calcógenos (grupo 16).	ns² np⁴
+Configuración electrónica de los halógenos (grupo 17).	ns² np⁵
+Configuración electrónica de los gases nobles (grupo 18).	ns² np⁶
+Definición de electronegatividad.	Capacidad de un átomo de atraer hacia sí los electrones de un enlace covalente.
+¿Cuál es el elemento más electronegativo?	Flúor (F).
+¿Cuál es la tendencia de la electronegatividad en la tabla periódica?	Aumenta hacia arriba y hacia la derecha.64: ¿Qué postula el modelo atómico de Bohr sobre los electrones?	Los electrones se mueven en distintos niveles de energía, absorben y emiten energía.
+65: ¿Qué sucede cuando un electrón está cerca del núcleo según el modelo de Bohr?	Absorbe energía y se aleja por un impulso (átomo en estado excitado).
+66: ¿Cuál es el número máximo de electrones en el nivel n=1?	2 electrones (subnivel s).
+67: ¿Cuál es el número máximo de electrones en el nivel n=2?	8 electrones (subniveles s y p).
+68: ¿Cuál es el número máximo de electrones en el nivel n=3?	18 electrones (subniveles s, p y d).
+69: ¿Cuál es el número máximo de electrones en el nivel n=4?	32 electrones (subniveles s, p, d y f).
+70: ¿Cuáles son los subniveles del nivel n=3?	s, p, d (l=0, 1, 2).
+71: ¿Cuáles son los subniveles del nivel n=4?	s, p, d, f (l=0, 1, 2, 3).
+72: ¿Cuál es la configuración electrónica del Helio (Z=2)?	1s²
+73: ¿Cuál es la configuración electrónica del Neón (Z=10)?	1s² 2s² 2p⁶
+74: ¿Cuál es la configuración electrónica del Argón (Z=18)?	1s² 2s² 2p⁶ 3s² 3p⁶
+75: ¿Cuál es la configuración electrónica del Cloro (Z=17)?	1s² 2s² 2p⁶ 3s² 3p⁵. CEE: 3s² 3p⁵
+76: ¿Cuál es la configuración electrónica del Kriptón (Z=36)?	1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶
+77: ¿Qué es la regla de las diagonales?	Regla que indica el orden de llenado de los subniveles electrónicos: 1s, 2s 2p, 3s 3p 3d, 4s 4p 4d 4f, 5s 5p 5d 5f, 6s 6p, 7s.
+78: ¿Cuál es la configuración electrónica del Potasio (K, Z=19) según la regla de las diagonales?	1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹
+79: ¿Cuál es la configuración electrónica condensada del Potasio (K)?	[Ar] 4s¹ (usando argón como gas noble previo).
+80: ¿Qué es la Configuración Electrónica Externa (CEE)?	Son los subniveles completos pero sin electrones en subnivel de mayor energía. Ese subnivel de referencia es la CEE.
+81: Definición de número atómico (Z).	Es la cantidad de protones presentes en el núcleo. Se representa con Z y a partir de él se determina la cantidad de electrones.
+82: Definición de número másico (A).	Es la suma de protones y neutrones contenidos en el núcleo de un átomo. Se representa con A. Se puede expresar como: A = Z + neutrones.
+83: Para el Cloro (Cl), si A=35 y Z=17, ¿cuántos neutrones tiene?	18 neutrones (35 - 17 = 18).
