@@ -1,0 +1,25 @@
+¿Que es un argumento deductivo valido?	Un argumento en el que no puede darse el caso de premisas verdaderas y conclusion falsa.
+¿La validez depende de que las premisas sean realmente verdaderas?	No. Depende de la forma del argumento, no de la verdad efectiva de sus enunciados.
+¿La verdad es propiedad de que cosa?	De los enunciados.
+¿La validez es propiedad de que cosa?	De los argumentos.
+¿Que es un contraejemplo para un argumento?	Un caso en el que las premisas son verdaderas y la conclusion es falsa.
+¿Que es un argumento solido?	Un argumento valido con premisas verdaderas.
+¿Todo argumento solido es valido?	Si.
+¿Todo argumento valido es solido?	No.
+¿Un argumento valido puede tener premisas falsas?	Si.
+¿Un argumento valido puede tener conclusion falsa?	Si, si alguna premisa es falsa.
+¿Un argumento valido puede tener premisas verdaderas y conclusion falsa?	No.
+Si A -> B; A; por lo tanto B	Modus Ponens.
+Si A -> B; no B; por lo tanto no A	Modus Tollens.
+A o B; no A; por lo tanto B	Silogismo disyuntivo.
+Todos los A son B; x es A; por lo tanto x es B	Instanciacion del universal.
+Si A -> B; B; por lo tanto A	Falacia de afirmacion del consecuente.
+Si A -> B; no A; por lo tanto no B	Falacia de negacion del antecedente.
+¿Que tipo de apoyo pretende un argumento deductivo?	Apoyo necesario o fuerte.
+¿Que tipo de apoyo pretende un argumento inductivo?	Apoyo en grados o probabilistico.
+¿El nivel de generalidad de premisas y conclusion define si un argumento es deductivo o inductivo?	No. Lo define el tipo de apoyo pretendido.
+¿Un argumento invalido puede tener conclusion verdadera?	Si.
+¿Un argumento invalido puede sonar convincente?	Si.
+¿Que conviene buscar para detectar invalidez rapido?	Un contraejemplo posible o una forma falaz conocida.
+Si un argumento es valido, ¿la conclusion ya esta implicita en las premisas?	Si.
+¿Que error clasico aparece si se confunde validez con verdad?	Pensar que un argumento es valido solo porque sus enunciados son verdaderos.

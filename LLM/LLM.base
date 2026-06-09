@@ -1,0 +1,37 @@
+filters:
+  and:
+    - file.inFolder("LLM")
+    - file.ext == "md"
+formulas:
+  updated_label: if(updated, date(updated).format("YYYY-MM-DD"), file.mtime.format("YYYY-MM-DD"))
+  kind: if(file.folder.contains("GLOSARIO"), "glosario", "nota")
+properties:
+  title:
+    displayName: Titulo
+  formula.kind:
+    displayName: Tipo
+  formula.updated_label:
+    displayName: Actualizado
+  source:
+    displayName: Fuente
+views:
+  - type: table
+    name: Glosario
+    filters:
+      and:
+        - file.inFolder("LLM/GLOSARIO")
+    order:
+      - file.name
+      - title
+      - formula.updated_label
+      - tags
+    sort:
+      - property: formula.updated_label
+        direction: DESC
+  - type: table
+    name: Todo LLM
+    order:
+      - file.name
+      - formula.kind
+      - source
+      - formula.updated_label

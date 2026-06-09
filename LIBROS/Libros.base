@@ -1,0 +1,35 @@
+filters:
+  and:
+    - file.inFolder("LIBROS")
+    - file.ext == "md"
+formulas:
+  updated_label: if(updated, date(updated).format("YYYY-MM-DD"), file.mtime.format("YYYY-MM-DD"))
+  collection: if(file.folder.contains("LA META"), "la-meta", if(file.folder.contains("El Libro de los Cinco Anillos"), "el-libro-de-los-cinco-anillos", "otros"))
+properties:
+  title:
+    displayName: Titulo
+  formula.collection:
+    displayName: Coleccion
+  formula.updated_label:
+    displayName: Actualizado
+  type:
+    displayName: Tipo
+views:
+  - type: table
+    name: Indices
+    filters:
+      and:
+        - tags.contains("indice")
+    order:
+      - file.name
+      - title
+      - formula.collection
+      - formula.updated_label
+  - type: table
+    name: Todo LIBROS
+    order:
+      - file.name
+      - formula.collection
+      - type
+      - formula.updated_label
+      - tags

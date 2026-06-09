@@ -1,0 +1,24 @@
+¿Cuando una conjuncion es verdadera?	Solo cuando ambos conyuntos son verdaderos.
+¿Cuando una conjuncion es falsa?	Cuando al menos uno de sus conyuntos es falso.
+¿Cuando una negacion es verdadera?	Cuando el enunciado negado es falso.
+¿Cuando una disyuncion inclusiva es falsa?	Solo cuando ambos disyuntos son falsos.
+¿Cuando un condicional es falso?	Solo cuando el antecedente es verdadero y el consecuente es falso.
+¿Que es una tautologia?	Un enunciado necesariamente verdadero por su forma.
+¿Que es una contradiccion?	Un enunciado necesariamente falso por su forma.
+¿Que es una contingencia?	Un enunciado que puede ser verdadero o falso segun los hechos.
+A o no A	Tautologia.
+A y no A	Contradiccion.
+Si A entonces A	Tautologia.
+“Buenos Aires es la capital de Argentina” es, logicamente, ¿tautologia, contradiccion o contingencia?	Contingencia.
+¿Que tipo de enunciado afirma algo de un individuo particular?	Singular.
+¿Que tipo de enunciado afirma algo de todos los miembros de un conjunto?	Universal.
+¿Que tipo de enunciado afirma algo de algunos miembros de un conjunto?	Existencial.
+¿Que tipo de enunciado asigna una probabilidad o porcentaje?	Probabilistico o estadistico.
+¿Como se vuelve falso un enunciado universal?	Con un solo contraejemplo del conjunto que no tenga la propiedad asignada.
+¿Como se vuelve verdadero un enunciado existencial?	Con al menos un caso del conjunto que tenga la propiedad asignada.
+“Todos los A son B” se refuta con...	Un A que no sea B.
+“Algunos A son B” se verifica con...	Un A que sea B.
+¿Una oracion condicional por si sola es necesariamente un argumento?	No.
+¿Que distingue a un argumento de un simple conjunto de enunciados?	Que algunos enunciados se ofrecen como razones a favor de otro.
+Indicadores tipicos de premisa	Porque, puesto que, dado que, pues.
+Indicadores tipicos de conclusion	Por lo tanto, luego, en consecuencia, por consiguiente, se sigue que.

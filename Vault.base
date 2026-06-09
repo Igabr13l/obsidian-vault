@@ -1,0 +1,41 @@
+filters:
+  and:
+    - file.ext == "md"
+formulas:
+  area: if(file.folder.contains("CBC"), "cbc", if(file.folder.contains("ESTUDIO"), "estudio", if(file.folder.contains("LIBROS"), "libros", if(file.folder.contains("LLM"), "llm", if(file.folder.contains("TRABAJO"), "trabajo", "raiz")))))
+  updated_label: if(updated, date(updated).format("YYYY-MM-DD"), file.mtime.format("YYYY-MM-DD"))
+  Sin título: ""
+properties:
+  title:
+    displayName: Titulo
+  formula.area:
+    displayName: Area
+  type:
+    displayName: Tipo
+  status:
+    displayName: Estado
+  formula.updated_label:
+    displayName: Actualizado
+views:
+  - type: table
+    name: Todo el vault
+    order:
+      - file.name
+      - formula.area
+      - type
+      - status
+      - formula.updated_label
+      - formula.Sin título
+    sort:
+      - property: type
+        direction: DESC
+  - type: table
+    name: Indices
+    filters:
+      and:
+        - tags.contains("indice")
+    order:
+      - file.name
+      - formula.area
+      - title
+      - formula.updated_label
