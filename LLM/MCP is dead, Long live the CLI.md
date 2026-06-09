@@ -21,7 +21,7 @@ source: https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html
 
 ---
 
-## tesis Principal
+## tesis Principa
 
 El autor argumenta que MCP (Model Context Protocol) ya está muriendo y que los CLIs son una mejor alternativa para conectar LLMs con herramientas externas.
 
