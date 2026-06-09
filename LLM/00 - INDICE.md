@@ -27,7 +27,7 @@ updated: 2026-03-24
 - [[Skills (Habilidades) en IA]]
 - [[Workflows (Flujos de Trabajo) en IA]]
 - [[Workflows y Skills en Agentes IA]]
-- [[Evolución: Bots, Copilots y Agentes]]
+- [[Evolución Bots, Copilots y Agentes]]
 - [[Sistemas Multi-Agente (MAS)]]
 - [[Function Calling en LLMs]]
 - [[MCP is dead, Long live the CLI]]

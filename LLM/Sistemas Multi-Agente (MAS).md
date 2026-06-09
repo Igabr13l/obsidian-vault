@@ -52,4 +52,4 @@ Un diseño clásico (popularizado por frameworks como Microsoft AutoGen o CrewAI
 
 - [[Arquitectura Cognitiva de Agentes]]
 - [[Workflows (Flujos de Trabajo) en IA]]
-- [[Evolución: Bots, Copilots y Agentes]]
+- [[Evolución Bots, Copilots y Agentes]]
