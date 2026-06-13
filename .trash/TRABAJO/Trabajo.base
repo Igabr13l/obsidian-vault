@@ -1,0 +1,24 @@
+filters:
+  and:
+    - file.inFolder("TRABAJO")
+    - file.ext == "md"
+formulas:
+  updated_label: if(updated, date(updated).format("YYYY-MM-DD"), file.mtime.format("YYYY-MM-DD"))
+properties:
+  title:
+    displayName: Titulo
+  type:
+    displayName: Tipo
+  formula.updated_label:
+    displayName: Actualizado
+  tags:
+    displayName: Tags
+views:
+  - type: table
+    name: Recursos
+    order:
+      - file.name
+      - title
+      - type
+      - formula.updated_label
+      - tags
