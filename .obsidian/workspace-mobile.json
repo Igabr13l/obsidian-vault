@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "LIBROS/The Art of Doing Science and Engineering/00 - INDICE.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "TRABAJO/Code_CLI_Tunnel.md",
+            "file": "LIBROS/The Art of Doing Science and Engineering/00 - INDICE.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "LLM/MCP is dead, Long live the CLI.md",
+            "file": "LIBROS/The Art of Doing Science and Engineering/00 - INDICE.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -153,9 +153,19 @@
           "icon": "lucide-list",
           "title": "Esquema"
         }
+      },
+      {
+        "id": "d43f721221c45b9d",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,12 +182,16 @@
   "active": "4da5daf68b85fac6",
   "lastOpenFiles": [
     "PLANNOTATOR/Plan - Jun 2, 2026 12-40pm.md",
+    "Sin título.base",
+    "LIBROS/The Art of Doing Science and Engineering/00 - INDICE.md",
+    "/PLANNOTATOR/Plan - Jun 2, 2026 12-40pm.md",
+    "/PLANNOTATOR",
+    "LIBROS/The Art of Doing Science and Engineering/01 - Conceptos Fundamentales.md",
     "TRABAJO/Cuentas y uso.md",
     "TRABAJO/Code_CLI_Tunnel.md",
     "PLANNOTATOR/Roles PARTNER_ADMIN y PARTNER_CONSULTANT - Mar 25, 2026 1-17pm.md",
     "PLANNOTATOR/Ecosistema de Permutas - Logica de Match Real - Jun 2, 2026 12-57pm.md",
     "LLM/MCP is dead, Long live the CLI.md",
-    "Sin título 1.base",
-    "Sin título.base"
+    "Sin título 1.base"
   ]
 }
