@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cf181255fd2bc64d",
+        "id": "152da2067bf1f834",
         "type": "tabs",
         "children": [
           {
-            "id": "a85dd43b7d425b92",
+            "id": "adf70db53f06d962",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PLANNOTATOR/Plan - Jun 2, 2026 12-40pm.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Plan - Jun 2, 2026 12-40pm"
             }
           }
         ]
@@ -167,6 +171,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -176,8 +181,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "a85dd43b7d425b92",
+  "active": "adf70db53f06d962",
   "lastOpenFiles": [
+    "Sin título.base",
+    "Sin título 1.base",
     "LLM/Evolución Bots, Copilots y Agentes.md"
   ]
 }
