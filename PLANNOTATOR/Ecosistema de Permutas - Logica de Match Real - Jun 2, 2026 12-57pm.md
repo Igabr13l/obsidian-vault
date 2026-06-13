@@ -1,7 +1,20 @@
 ---
-created: 2026-06-02T15:57:26.691Z
+title: "Ecosistema de Permutas - Lógica de Match Real"
+type: note
+status: draft
+tags:
+  - plannotator
+  - manijacasas
+  - ecosistema
+  - permutas
+  - logica
+  - javascript
+  - sql
+aliases:
+  - Swap Matching Logic
+created: 2026-06-02
+updated: 2026-06-13
 source: plannotator
-tags: [plannotator, manijacasas, ecosistema, permutas, logica, javascript, sql]
 ---
 
 [[Plannotator Plans]]

@@ -13,6 +13,7 @@ Este proyecto es un vault de Obsidian para gestión de conocimiento personal.
 | `LIBROS/` | Notas de libros leídos |
 | `LLM/` | Glosario y notas sobre IA |
 | `TRABAJO/` | Documentación laboral |
+| `PLANNOTATOR/` | Planes exportados desde Plannotator |
 
 ```mermaid
 graph TD
@@ -21,6 +22,7 @@ graph TD
     Root --> LIB[LIBROS/]
     Root --> LLM[LLM/]
     Root --> JOB[TRABAJO/]
+    Root --> PLA[PLANNOTATOR/]
     
     CBC --> BIO[Biología]
     CBC --> QUI[Química]
@@ -29,6 +31,7 @@ graph TD
     LIB --> RE[Indices de libros]
     LLM --> GLO[Glosario y notas]
     JOB --> DOC[Docs]
+    PLA --> EXP[Planes exportados]
 ```
 
 ---
@@ -134,7 +137,7 @@ Contenido...
 
 ### 7. Sección Final: Ver también
 
-**SIEMPRE terminar con:**
+**SIEMPRE terminar con (excepto transcripciones auto-importadas):**
 
 ```markdown
 ---
@@ -144,6 +147,9 @@ Contenido...
 - [[Nota relacionada 1]]
 - [[Nota relacionada 2]]
 ```
+
+> [!NOTE] Excepción
+> Las transcripciones de YouTube (`TRANSCRIPCIONES/`) son auto-importadas y se usan como material de referencia desde las notas de estudio. No requieren sección "Ver también".
 
 ---
 
@@ -158,6 +164,9 @@ Contenido...
 | CBC Biología | `.obsidian/templates/CBC Biologia.md` |
 | CBC General | `.obsidian/templates/CBC General.md` |
 | Método de Estudio | `.obsidian/templates/Metodo de Estudio.md` |
+
+> [!TIP] Uso
+> En Obsidian, crear una nota desde plantilla: `Cmd/Ctrl + P` → "Templates: Insert template" y seleccionar la plantilla deseada.
 
 ### Indices principales recomendados
 
