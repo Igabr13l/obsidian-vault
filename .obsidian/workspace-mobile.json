@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/MCP is dead, Long live the CLI.md",
+                "file": "TRABAJO/Cuentas y uso.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MCP is dead, Long live the CLI"
+              "title": "Cuentas y uso"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LLM/MCP is dead, Long live the CLI.md",
+            "file": "TRABAJO/Code_CLI_Tunnel.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,8 +171,12 @@
   },
   "active": "4da5daf68b85fac6",
   "lastOpenFiles": [
-    "Sin título 1.base",
+    "TRABAJO/Code_CLI_Tunnel.md",
+    "PLANNOTATOR/Plan - Jun 2, 2026 12-40pm.md",
+    "PLANNOTATOR/Roles PARTNER_ADMIN y PARTNER_CONSULTANT - Mar 25, 2026 1-17pm.md",
+    "PLANNOTATOR/Ecosistema de Permutas - Logica de Match Real - Jun 2, 2026 12-57pm.md",
     "LLM/MCP is dead, Long live the CLI.md",
+    "Sin título 1.base",
     "Sin título.base"
   ]
 }
