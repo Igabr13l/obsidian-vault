@@ -28,7 +28,6 @@ updated: 2026-03-15
 | ESTUDIO | Metodos de aprendizaje | [[ESTUDIO/00 - INDICE]] |
 | LIBROS | Lecturas y destilados | [[LIBROS/00 - INDICE]] |
 | LLM | IA, glosario y flujos | [[LLM/00 - INDICE]] |
-| TRABAJO | Referencias laborales | [[TRABAJO/00 - INDICE]] |
 
 ---
 
@@ -53,7 +52,6 @@ updated: 2026-03-15
 - ![[LIBROS/Libros.base#Indices]]
 - ![[CBC/00 - INDICE#Materias]]
 - ![[CBC/BIOLOGIA/Biologia.base#Sesiones]]
-- ![[Trabajo.base#Recursos]]
 
 ---
 
@@ -65,8 +63,6 @@ updated: 2026-03-15
 - [[ESTUDIO/00 - INDICE]]
 - [[LIBROS/00 - INDICE]]
 - [[LLM/00 - INDICE]]
-- [[TRABAJO/00 - INDICE]]
-- [[Cuentas y uso]]
 
 ---
 
@@ -76,4 +72,3 @@ updated: 2026-03-15
 - [[ESTUDIO/00 - INDICE]]
 - [[LIBROS/00 - INDICE]]
 - [[LLM/00 - INDICE]]
-- [[TRABAJO/00 - INDICE]]

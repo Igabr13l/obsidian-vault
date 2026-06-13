@@ -38,4 +38,3 @@ updated: 2026-03-15
 
 - [[Inicio]]
 - [[CBC/00 - INDICE]]
-- [[TRABAJO/00 - INDICE]]

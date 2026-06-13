@@ -12,7 +12,6 @@ Este proyecto es un vault de Obsidian para gestión de conocimiento personal.
 | `ESTUDIO/` | Métodos y estrategias de aprendizaje |
 | `LIBROS/` | Notas de libros leídos |
 | `LLM/` | Glosario y notas sobre IA |
-| `TRABAJO/` | Documentación laboral |
 | `PLANNOTATOR/` | Planes exportados desde Plannotator |
 
 ```mermaid
@@ -21,7 +20,6 @@ graph TD
     Root --> EST[ESTUDIO/]
     Root --> LIB[LIBROS/]
     Root --> LLM[LLM/]
-    Root --> JOB[TRABAJO/]
     Root --> PLA[PLANNOTATOR/]
     
     CBC --> BIO[Biología]
@@ -30,7 +28,6 @@ graph TD
     EST --> MET[Metodos]
     LIB --> RE[Indices de libros]
     LLM --> GLO[Glosario y notas]
-    JOB --> DOC[Docs]
     PLA --> EXP[Planes exportados]
 ```
 
@@ -175,7 +172,6 @@ Contenido...
 - `ESTUDIO/00 - INDICE.md`
 - `LIBROS/00 - INDICE.md`
 - `LLM/00 - INDICE.md`
-- `TRABAJO/00 - INDICE.md`
 
 ---
 

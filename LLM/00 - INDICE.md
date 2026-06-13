@@ -58,4 +58,3 @@ updated: 2026-03-24
 
 - [[Inicio]]
 - [[LIBROS/00 - INDICE]]
-- [[TRABAJO/00 - INDICE]]
