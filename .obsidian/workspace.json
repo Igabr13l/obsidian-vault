@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIBROS/Stealing the Network - How to Own a Continent/00 - INDICE.md",
+                "file": "SEGURIDAD/Reportes.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - INDICE"
+              "title": "Reportes"
             }
           }
         ]
@@ -183,32 +183,36 @@
   },
   "active": "75d8dc4d18c386c2",
   "lastOpenFiles": [
+    "SEGURIDAD/XXE.md",
+    "SEGURIDAD/Race Conditions.md",
+    "SEGURIDAD/Open Redirect.md",
+    "SEGURIDAD/File Upload.md",
+    "SEGURIDAD/CSRF.md",
+    "SEGURIDAD/SSTI.md",
+    "SEGURIDAD/SSRF.md",
+    "SEGURIDAD/IDOR.md",
+    "SEGURIDAD/SQL Injection.md",
+    "SEGURIDAD/XSS.md",
+    "SEGURIDAD/Mobile Pentesting.md",
+    "SEGURIDAD/Cloud Hacking.md",
+    "SEGURIDAD/Active Directory.md",
+    "SEGURIDAD/OSINT Profundo.md",
+    "SEGURIDAD/Linux para Hacking.md",
+    "SEGURIDAD/HTTP Profundo.md",
+    "SEGURIDAD/Fundamentos Redes.md",
+    "SEGURIDAD/Vulnerabilidades Web.md",
+    "SEGURIDAD/Roadmap Bug Bounty.md",
+    "LIBROS/Stealing the Network - How to Own a Continent/00 - INDICE.md",
     "LIBROS/Stealing the Network - How to Own a Continent/Anexo - The Making of STC.md",
     "LIBROS/Stealing the Network - How to Own a Continent/10 - Get Out Quick.md",
     "LIBROS/Stealing the Network - How to Own a Continent/09 - Automatic Terror Machine.md",
     "LIBROS/Stealing the Network - How to Own a Continent/08 - The Story of Dex.md",
     "LIBROS/Stealing the Network - How to Own a Continent/07 - h3X and The Big Picture.md",
     "LIBROS/Stealing the Network - How to Own a Continent/06 - Return on Investment.md",
-    "LIBROS/Stealing the Network - How to Own a Continent/05 - For Whom Ma Bell Tolls.md",
-    "LIBROS/Stealing the Network - How to Own a Continent/04 - A Real Gullible Genius.md",
-    "LIBROS/Stealing the Network - How to Own a Continent/03 - Product of Fate.md",
-    "LIBROS/Stealing the Network - How to Own a Continent/02 - The Lagos Creeper Box.md",
-    "LIBROS/Stealing the Network - How to Own a Continent/01 - Control Yourself.md",
-    "SEGURIDAD/Reportes.md",
-    "SEGURIDAD/Vulnerabilidades Web.md",
-    "SEGURIDAD/Roadmap Bug Bounty.md",
-    "SEGURIDAD/Reconocimiento.md",
-    "SEGURIDAD/Hacking Activo.md",
-    "LIBROS/Stealing the Network - How to Own a Continent/00 - INDICE.md",
     "LIBROS/Stealing the Network - How to Own a Continent",
-    "LIBROS/The Art of Doing Science and Engineering/01 - Conceptos Fundamentales.md",
-    "SEGURIDAD/00 - INDICE.md",
     "SEGURIDAD",
     "Vault.base",
-    "PLANNOTATOR/Plan - Jun 2, 2026 12-40pm.md",
     "Sin título.base",
-    "PLANNOTATOR/Roles PARTNER_ADMIN y PARTNER_CONSULTANT - Mar 25, 2026 1-17pm.md",
-    "Sin título 1.base",
-    "LLM/Evolución Bots, Copilots y Agentes.md"
+    "Sin título 1.base"
   ]
 }
