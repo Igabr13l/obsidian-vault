@@ -37,22 +37,22 @@ Se divide en **12 libros** (capitulos) sin una estructura tematica rigida, escri
 
 ---
 
-## Estructura
+## Indice de Contenido
 
-| Libro | Temas principales |
-|-------|-------------------|
-| I | Gratitud: reconoce las lecciones aprendidas de familiares, maestros y dioses |
-| II | La naturaleza del amanecer, el proposito de la vida, la muerte |
-| III | Brevedad de la vida, concentracion en el presente |
-| IV | El universo como cambio, la mente como ciudadela interna |
-| V | Accion con proposito, aceptacion de la naturaleza |
-| VI | El obstaculo es el camino, indiferencia ante la opinion ajena |
-| VII | Memento mori, la belleza de las cosas que pasan |
-| VIII | El juicio es interno, nada es bueno o malo sino el pensamiento |
-| IX | Compasion, entender al que te ofende |
-| X | La naturaleza del todo, el rol de cada parte |
-| XI | La mente superior, como lidiar con la estupidez ajena |
-| XII | Resumen: todo es opinion, el alma se tiñe del color de sus pensamientos |
+| Libro | Titulo | Nota |
+|-------|--------|------|
+| I | Deudas de Gratitud | [[01 - Libro I]] |
+| II | El Amanecer | [[02 - Libro II]] |
+| III | La Brevedad de la Vida | [[03 - Libro III]] |
+| IV | La Ciudadela Interna | [[04 - Libro IV]] |
+| V | Accion con Proposito | [[05 - Libro V]] |
+| VI | El Obstaculo es el Camino | [[06 - Libro VI]] |
+| VII | Memento Mori | [[07 - Libro VII]] |
+| VIII | El Juicio es Interno | [[08 - Libro VIII]] |
+| IX | Compasion y Entendimiento | [[09 - Libro IX]] |
+| X | El Todo y la Parte | [[10 - Libro X]] |
+| XI | La Mente Superior | [[11 - Libro XI]] |
+| XII | Todo es Opinion | [[12 - Libro XII]] |
 
 ---
 
