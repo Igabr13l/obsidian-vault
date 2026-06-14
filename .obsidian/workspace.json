@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIBROS/Spartan-Cybersecurity/La Biblia del Hacking Web.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La Biblia del Hacking Web"
+              "title": "README"
             }
           }
         ]
@@ -183,6 +183,7 @@
   },
   "active": "75d8dc4d18c386c2",
   "lastOpenFiles": [
+    "LIBROS/Spartan-Cybersecurity/La Biblia del Hacking Web.md",
     "LIBROS/Spartan-Cybersecurity/La Biblia del Hacker en AWS.md",
     "LIBROS/Spartan-Cybersecurity/La Biblia del Hacker en Active Directory.md",
     "LIBROS/Meditaciones - Marco Aurelio/12 - Libro XII.md",
@@ -207,7 +208,6 @@
     "LIBROS/Meditaciones - Marco Aurelio/01 - Libro I.md",
     "LIBROS/Meditaciones - Marco Aurelio/00 - INDICE.md",
     "LIBROS/Meditaciones - Marco Aurelio",
-    "LIBROS/Spartan-Cybersecurity/La Biblia del Hacking Web.md",
     "LIBROS/Spartan-Cybersecurity/La Biblia del Hacker para Juniors.md",
     "LIBROS/Spartan-Cybersecurity/00 - INDICE.md",
     "LIBROS/Spartan-Cybersecurity",
