@@ -2,7 +2,7 @@ filters:
   and:
     - file.ext == "md"
 formulas:
-  area: if(file.folder.contains("CBC"), "cbc", if(file.folder.contains("ESTUDIO"), "estudio", if(file.folder.contains("LIBROS"), "libros", if(file.folder.contains("LLM"), "llm", if(file.folder.contains("TRABAJO"), "trabajo", "raiz")))))
+  area: if(file.folder.contains("CBC"), "cbc", if(file.folder.contains("ESTUDIO"), "estudio", if(file.folder.contains("LIBROS"), "libros", if(file.folder.contains("LLM"), "llm", if(file.folder.contains("SEGURIDAD"), "seguridad", "raiz")))))
   updated_label: if(updated, date(updated).format("YYYY-MM-DD"), file.mtime.format("YYYY-MM-DD"))
   Sin título: ""
 properties:

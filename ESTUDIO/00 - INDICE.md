@@ -32,6 +32,12 @@ updated: 2026-03-15
 
 - ![[ESTUDIO/Estudio.base#Metodos]]
 
+## Lectura
+
+- [[ESTUDIO/Sistema de Lectura Eficiente|Sistema de Lectura Eficiente]]
+- [[Método SQ3R]]
+- [[Método Blurting]]
+
 ---
 
 ## Ver tambien

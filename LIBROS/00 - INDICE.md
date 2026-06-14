@@ -29,6 +29,8 @@ updated: 2026-03-15
 | The Art of Doing Science and Engineering | [[LIBROS/The Art of Doing Science and Engineering/00 - INDICE]] |
 | What They Don't Teach You at Harvard Business School | [[LIBROS/What They Dont Teach You at Harvard Business School/00 - INDICE]] |
 | Stealing the Network: How to Own a Continent | [[LIBROS/Stealing the Network - How to Own a Continent/00 - INDICE]] |
+| Spartan-Cybersecurity (e-books gratis) | [[LIBROS/Spartan-Cybersecurity/00 - INDICE]] |
+| Meditaciones | [[LIBROS/Meditaciones - Marco Aurelio/00 - INDICE]] |
 
 ---
 
