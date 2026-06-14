@@ -28,6 +28,7 @@ updated: 2026-03-15
 | ESTUDIO | Metodos de aprendizaje | [[ESTUDIO/00 - INDICE]] |
 | LIBROS | Lecturas y destilados | [[LIBROS/00 - INDICE]] |
 | LLM | IA, glosario y flujos | [[LLM/00 - INDICE]] |
+| SEGURIDAD | Ciberseguridad y Bug Bounty | [[SEGURIDAD/00 - INDICE]] |
 
 ---
 
