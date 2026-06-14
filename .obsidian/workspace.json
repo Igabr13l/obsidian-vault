@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "LIBROS/The Art of Doing Science and Engineering/08 - Datos No Confiables.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "08 - Datos No Confiables"
             }
           }
         ]
@@ -183,6 +183,15 @@
   },
   "active": "75d8dc4d18c386c2",
   "lastOpenFiles": [
+    "LIBROS/The Art of Doing Science and Engineering/07 - Matemáticas como Pensamiento.md",
+    "LIBROS/The Art of Doing Science and Engineering/06 - Límites de la IA.md",
+    "LIBROS/The Art of Doing Science and Engineering/05 - Historia de la Computación.md",
+    "LIBROS/The Art of Doing Science and Engineering/04 - You and Your Research.md",
+    "LIBROS/The Art of Doing Science and Engineering/03 - Lecciones Clave.md",
+    "LIBROS/The Art of Doing Science and Engineering/02 - Aprender a Aprender.md",
+    "LIBROS/The Art of Doing Science and Engineering/01 - Conceptos Fundamentales.md",
+    "LIBROS/The Art of Doing Science and Engineering/08 - Datos No Confiables.md",
+    "README.md",
     "LIBROS/Spartan-Cybersecurity/La Biblia del Hacking Web.md",
     "LIBROS/Spartan-Cybersecurity/La Biblia del Hacker en AWS.md",
     "LIBROS/Spartan-Cybersecurity/La Biblia del Hacker en Active Directory.md",
@@ -200,16 +209,7 @@
     "LIBROS/Stealing the Network - How to Own a Continent/04 - A Real Gullible Genius.md",
     "LIBROS/Stealing the Network - How to Own a Continent/08 - The Story of Dex.md",
     "LIBROS/Meditaciones - Marco Aurelio/04 - Libro IV.md",
-    "LIBROS/Stealing the Network - How to Own a Continent/07 - h3X and The Big Picture.md",
-    "LIBROS/Meditaciones - Marco Aurelio/03 - Libro III.md",
-    "LIBROS/Stealing the Network - How to Own a Continent/01 - Control Yourself.md",
-    "LIBROS/Meditaciones - Marco Aurelio/02 - Libro II.md",
-    "SEGURIDAD/Reportes.md",
-    "LIBROS/Meditaciones - Marco Aurelio/01 - Libro I.md",
-    "LIBROS/Meditaciones - Marco Aurelio/00 - INDICE.md",
     "LIBROS/Meditaciones - Marco Aurelio",
-    "LIBROS/Spartan-Cybersecurity/La Biblia del Hacker para Juniors.md",
-    "LIBROS/Spartan-Cybersecurity/00 - INDICE.md",
     "LIBROS/Spartan-Cybersecurity",
     "LIBROS/Stealing the Network - How to Own a Continent",
     "SEGURIDAD",
