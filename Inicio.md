@@ -10,7 +10,7 @@ aliases:
   - Home
   - Dashboard
 created: 2026-03-08
-updated: 2026-03-15
+updated: 2026-06-14
 ---
 
 # Inicio
@@ -60,6 +60,7 @@ updated: 2026-03-15
 
 - [[LLM/AI Second Brain con Obsidian + Claude Code]]
 - [[LLM/Claude Code + Obsidian Bases]]
+- [[SEGURIDAD/00 - INDICE]]
 - [[CBC/00 - INDICE]]
 - [[ESTUDIO/00 - INDICE]]
 - [[LIBROS/00 - INDICE]]
@@ -73,3 +74,4 @@ updated: 2026-03-15
 - [[ESTUDIO/00 - INDICE]]
 - [[LIBROS/00 - INDICE]]
 - [[LLM/00 - INDICE]]
+- [[SEGURIDAD/00 - INDICE]]

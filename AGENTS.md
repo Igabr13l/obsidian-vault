@@ -12,7 +12,8 @@ Este proyecto es un vault de Obsidian para gestión de conocimiento personal.
 | `ESTUDIO/` | Métodos y estrategias de aprendizaje |
 | `LIBROS/` | Notas de libros leídos |
 | `LLM/` | Glosario y notas sobre IA |
-| `PLANNOTATOR/` | Planes exportados desde Plannotator |
+| `SEGURIDAD/` | Ciberseguridad y Bug Bounty |
+| `PLANNOTATOR/` | Planes exportados (gitignored, no se suben) |
 
 ```mermaid
 graph TD
@@ -20,15 +21,17 @@ graph TD
     Root --> EST[ESTUDIO/]
     Root --> LIB[LIBROS/]
     Root --> LLM[LLM/]
-    Root --> PLA[PLANNOTATOR/]
+    Root --> SEG[SEGURIDAD/]
     
     CBC --> BIO[Biología]
     CBC --> QUI[Química]
     CBC --> IPC[IPC]
     EST --> MET[Metodos]
     LIB --> RE[Indices de libros]
-    LLM --> GLO[Glosario y notas]
-    PLA --> EXP[Planes exportados]
+    LLM --> GLO["Glosario y notas"]
+    SEG --> WEB[Web Vulnerabilities]
+    SEG --> AD[Active Directory]
+    SEG --> CLO[Cloud Hacking]
 ```
 
 ---
@@ -172,6 +175,7 @@ Contenido...
 - `ESTUDIO/00 - INDICE.md`
 - `LIBROS/00 - INDICE.md`
 - `LLM/00 - INDICE.md`
+- `SEGURIDAD/00 - INDICE.md`
 
 ---
 
@@ -184,6 +188,8 @@ Contenido...
 | Plan | `planificacion`, `[categoria]` |
 | Glosario | `glosario`, `[area]` |
 | Proyecto | `proyecto`, `[nombre]` |
+| Seguridad | `seguridad`, `[tema]` |
+| Recurso externo | `libros`, `seguridad`, `gratis` (para e-books de referencia) |
 
 ---
 
