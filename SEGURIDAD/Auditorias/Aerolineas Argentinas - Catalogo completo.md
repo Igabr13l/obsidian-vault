@@ -70,6 +70,7 @@ updated: 2026-09-09
 | ID | Estado | Nota |
 |----|--------|------|
 | AA-01 PII | ✅ Parcheado | 401/403 |
+| AA-01 retest 09 Sep 2026 | ✅ Sigue parcheado | `GET /v3/loyalty/members/65960130` sin auth → **401** con UA navegador y con UA curl (solo status, sin leer body); CORS `*` + credentials persiste en el 401 |
 | AA-02 CORS | 🔴 Sigue activo | API + frontend |
 | AA-03 GDS sin auth | ✅ Bloqueado (WAF) | |
 | AA-04–07 infra catalogo | ✅ Bloqueado (WAF) | Detras de headers de navegador |
