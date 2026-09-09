@@ -88,6 +88,10 @@ updated: 2026-09-09
 - `api` con rate-limit/IP block temporal; `content.services` sin rate-limit.
 - Nuclei CVE: 0 matches tras WAF. `sourcemaps` 404 (sin filtracion).
 
+## E. Migracion de infraestructura (detectada 09 Sep 2026)
+
+`www`, `api` y `content.services` resuelven los tres a **34.149.238.238** (GCP; `content.services` es CNAME a `cloudarmor.services.aerolineas.com.ar`). En Ago-2026 `www`/`api` estaban en Azure (20.7.240.35): **migraron el edge de Azure App Gateway a GCP + Cloud Armor**. Consecuencias observadas: el filtro por `User-Agent` del WAF Azure ya no se comporta igual (curl sin auth ahora recibe 401 del API en vez de 403 del WAF); el CORS `*` + credentials **sobrevivio a la migracion**; HSTS con preload ahora tambien en API. Pendiente: retest de bypass WAF y rate-limit contra el nuevo edge.
+
 ---
 
 ## Ver tambien
