@@ -15,8 +15,10 @@ aliases:
   - AI Second Brain con Agentes
   - Obsidian Bases con opencode
   - Dashboards de contexto para agentes
+  - AI Second Brain con Obsidian + Claude Code
+  - Claude Code + Obsidian Bases
 created: 2026-03-24
-updated: 2026-03-24
+updated: 2026-09-07
 source: Síntesis de enfoques de Noah Vincent y Artem Zhutov, adaptado a opencode/CLI
 ---
 

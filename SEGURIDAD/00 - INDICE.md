@@ -11,7 +11,7 @@ aliases:
   - Ciberseguridad
   - Bug Bounty
 created: 2026-06-13
-updated: 2026-06-13
+updated: 2026-09-07
 ---
 
 # 00 - Indice de Seguridad
@@ -80,12 +80,12 @@ updated: 2026-06-13
 | [[SEGURIDAD/Active Directory]] | Kerberos, BloodHound, PtH, DCSync, Golden Ticket |
 | [[SEGURIDAD/Cloud Hacking]] | AWS, GCP, Azure — metadata, S3, IAM, Lambda |
 | [[SEGURIDAD/Mobile Pentesting]] | Android (APK, Frida, SSL pinning) e iOS |
+| [[SEGURIDAD/BLOCKCHAIN/00 - INDICE|Blockchain y Smart Contracts]] | Módulo completo: DeFi, Bridges, Peg Exploits, Smart Contracts, Wallets, MEV, Consenso |
 
 ---
 
 ## Proximas areas
 
-- Blockchain / Smart Contracts
 - Red Team operacional (C2, evasion, persistencia)
 - Hardware hacking / IoT
 

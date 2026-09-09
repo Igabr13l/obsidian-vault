@@ -10,7 +10,7 @@ aliases:
   - Home
   - Dashboard
 created: 2026-03-08
-updated: 2026-06-14
+updated: 2026-09-07
 ---
 
 # Inicio
@@ -58,8 +58,9 @@ updated: 2026-06-14
 
 ## Notas clave
 
-- [[LLM/AI Second Brain con Obsidian + Claude Code]]
-- [[LLM/Claude Code + Obsidian Bases]]
+- [[LLM/Obsidian como AI Second Brain (Claude Code + Bases)|AI Second Brain con Obsidian + Claude Code]]
+- [[LLM/Obsidian como AI Second Brain (Claude Code + Bases)#4. Dashboards de Contexto (Obsidian Bases / Índices)|Claude Code + Obsidian Bases]]
+- [[SEGURIDAD/BLOCKCHAIN/00 - INDICE|Seguridad en Blockchain y Web3]]
 - [[SEGURIDAD/00 - INDICE]]
 - [[CBC/00 - INDICE]]
 - [[ESTUDIO/00 - INDICE]]
