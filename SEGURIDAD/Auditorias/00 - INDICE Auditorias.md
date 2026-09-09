@@ -29,7 +29,9 @@ updated: 2026-09-09
 |---|------|--------------|--------|
 | 1 | [[SEGURIDAD/Auditorias/Proyecto Pages - Mapa general\|Proyecto Pages - Mapa general]] | Mapa del proyecto: que contiene cada carpeta, donde esta la evidencia, que tests existen | 5 min |
 | 2 | [[SEGURIDAD/Auditorias/Aerolineas Argentinas - Resumen\|Aerolineas Argentinas - Resumen]] | Auditoria web/API Aerolineas: PII, CORS, Drupal EOL, JWT sin auth | 10 min |
+| 2b | [[SEGURIDAD/Auditorias/Aerolineas Argentinas - Catalogo completo\|Aerolineas - Catalogo completo]] | **Inventario total**: findings 01-07, research R-01-R-17, validation AA-01-AA-16 | referencia |
 | 3 | [[SEGURIDAD/Auditorias/BNA Digital - Resumen\|BNA Digital - Resumen]] | Auditoria BNA + Red Link: CORS reflejado, crypto en navegador, legacy IBM/Lotus | 10 min |
+| 3b | [[SEGURIDAD/Auditorias/BNA Digital - Catalogo completo\|BNA - Catalogo completo]] | **Inventario total**: 7 findings, BNA-01-11, HAR CRIT/HIGH/MED, OWASP 27, T-01-T-19 | referencia |
 | 4 | [[SEGURIDAD/Auditorias/Android Lab - Resumen\|Android Lab - Resumen]] | Ingenieria inversa Android: Aerolineas (secreto embebido), BNA+ (Veritran), BAX (Firebase multi-ambiente) | 10 min |
 
 ---

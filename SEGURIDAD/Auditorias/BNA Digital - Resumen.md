@@ -21,6 +21,7 @@ updated: 2026-09-09
 > [!INFO] Fuente
 > `~/pages/bna-digital/` — README, SUMMARY, `findings/` (7), `evidence/auditoria/` (6 informes).
 > Fecha: 29 Ago 2026. Analisis no intrusivo (sin payloads ni credenciales).
+> Inventario total sin omisiones: [[SEGURIDAD/Auditorias/BNA Digital - Catalogo completo|Catalogo completo]].
 
 ---
 

@@ -21,6 +21,7 @@ updated: 2026-09-09
 > [!INFO] Fuente
 > `~/pages/aerolineas-argentinas/` — README, SUMMARY, `findings/01-07`, `research/reports/aerolineas-argentinas-research-2026-08-29.md`.
 > Fecha audit: 29 Ago 2026, ultima verificacion 30 Ago 2026. 121 peticiones HAR analizadas.
+> Inventario total sin omisiones: [[SEGURIDAD/Auditorias/Aerolineas Argentinas - Catalogo completo|Catalogo completo]].
 
 ---
 

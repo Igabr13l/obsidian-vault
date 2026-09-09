@@ -80,7 +80,9 @@ updated: 2026-09-09
 | 0 | [[SEGURIDAD/Auditorias/00 - INDICE Auditorias\|00 - Indice Auditorias]] | Punto de entrada: orden de lectura y estado general |
 | 1 | [[SEGURIDAD/Auditorias/Proyecto Pages - Mapa general\|Proyecto Pages - Mapa general]] | Mapa del proyecto `pages/`: carpetas, evidencia, tests |
 | 2 | [[SEGURIDAD/Auditorias/Aerolineas Argentinas - Resumen\|Aerolineas Argentinas]] | PII, CORS, Drupal EOL, JWT sin auth, secreto en APK |
+| 2b | [[SEGURIDAD/Auditorias/Aerolineas Argentinas - Catalogo completo\|Catalogo Aerolineas]] | Inventario total: 01-07, R-01-R-17, AA-01-AA-16 |
 | 3 | [[SEGURIDAD/Auditorias/BNA Digital - Resumen\|BNA Digital]] | CORS reflejado, crypto en navegador, legacy IBM/Lotus |
+| 3b | [[SEGURIDAD/Auditorias/BNA Digital - Catalogo completo\|Catalogo BNA]] | Inventario total: 7 findings, HAR, OWASP 27, T-01-T-19 |
 | 4 | [[SEGURIDAD/Auditorias/Android Lab - Resumen\|Android Lab]] | Aerolineas vs BNA+ vs BAX: Frida, pinning, Firebase |
 
 ---
