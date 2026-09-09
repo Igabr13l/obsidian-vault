@@ -11,7 +11,7 @@ aliases:
   - Ciberseguridad
   - Bug Bounty
 created: 2026-06-13
-updated: 2026-09-07
+updated: 2026-09-09
 ---
 
 # 00 - Indice de Seguridad
@@ -70,6 +70,18 @@ updated: 2026-09-07
 |------|-------------|
 | [[SEGURIDAD/Hacking Activo]] | ATO, API hacking, request smuggling, subdomain takeover |
 | [[SEGURIDAD/Reportes]] | Estructura, 7-Question Gate, errores comunes |
+
+---
+
+## Auditorias reales (proyecto pages) — leer en este orden: 1 → 2 → 3 → 4
+
+| # | Nota | Descripcion |
+|---|------|-------------|
+| 0 | [[SEGURIDAD/Auditorias/00 - INDICE Auditorias\|00 - Indice Auditorias]] | Punto de entrada: orden de lectura y estado general |
+| 1 | [[SEGURIDAD/Auditorias/Proyecto Pages - Mapa general\|Proyecto Pages - Mapa general]] | Mapa del proyecto `pages/`: carpetas, evidencia, tests |
+| 2 | [[SEGURIDAD/Auditorias/Aerolineas Argentinas - Resumen\|Aerolineas Argentinas]] | PII, CORS, Drupal EOL, JWT sin auth, secreto en APK |
+| 3 | [[SEGURIDAD/Auditorias/BNA Digital - Resumen\|BNA Digital]] | CORS reflejado, crypto en navegador, legacy IBM/Lotus |
+| 4 | [[SEGURIDAD/Auditorias/Android Lab - Resumen\|Android Lab]] | Aerolineas vs BNA+ vs BAX: Frida, pinning, Firebase |
 
 ---
 
