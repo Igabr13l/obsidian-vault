@@ -71,6 +71,7 @@ updated: 2026-09-09
 |----|--------|------|
 | AA-01 PII | ✅ Parcheado | 401/403 |
 | AA-01 retest 09 Sep 2026 | ✅ Sigue parcheado | `GET /v3/loyalty/members/65960130` sin auth → **401** con UA navegador y con UA curl (solo status, sin leer body); CORS `*` + credentials persiste en el 401 |
+| AA-01 IDOR x-member 09 Sep 2026 | ✅ Sin IDOR con machine-token | Mismo bearer admin: miembro propio `...0130` → 200; miembro ajeno `...0131` → **401**. Hay autorizacion por titularidad aun con `loyalty:admin` |
 | AA-02 CORS | 🔴 Sigue activo | API + frontend |
 | AA-03 GDS sin auth | ✅ Bloqueado (WAF) | |
 | AA-04–07 infra catalogo | ✅ Bloqueado (WAF) | Detras de headers de navegador |
